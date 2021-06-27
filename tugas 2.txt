@@ -1,0 +1,14 @@
+NAMA		: MUHAMMAD RIZKY RUHUL F
+NIM			: 18112437
+PELAJARAN	: PROYEK PL
+UAS
+1.TOPIK IDE (APLIKASI PENJUALAN BATIK BERBASIS WEB)
+2.PERMASALAHAN :
+	•Sistem yang dibahas melingkupi informasi tentang profil perusahaan, katalog produk, transaksi pemesanan dan laporan.
+	•Order akan dikirimkan jika sudah ada pembayaran dan konfirmasi dari pihak pembeli.
+	•Apakah penjualan online efekctive bagi pemilik usaha ?
+	•Bagaimana mencari aplikasi yang cocok untuk penjualan online?.
+ 
+
+
+
