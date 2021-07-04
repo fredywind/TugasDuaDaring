@@ -1,0 +1,2 @@
+1. Software Design
+2. Membuat aplikasi Toko Herbal Online
