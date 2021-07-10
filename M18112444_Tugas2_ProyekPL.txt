@@ -1,0 +1,9 @@
+Nama : Anas Taher 
+NIM : 18112444
+Matkul : Proyek PL
+Judul : Rancang bangun aplikasi sistem informasi pembayaran iuran warga Puri Bunga Estate Dengan Menggunakan Metode Scrum
+Latar Belakang :
+Dalam situasi pandemi covid-19 saat ini, dibutuhkan sebuah sistem informasi yang dapat membantu mempermudah pengelolaan pembayaran. Data yang dibutuhkan tidak hanya dalam tingkat nasional namun juga dalam tingkat yang lebih kecil yakni lingkup RT / Perumahan.
+saat ini perumahan puri bunga estate yang berada di daerah tunggulwulung malang masih belum memiliki sistem yang dapat digunakan untuk mengelola pembayaran iuran warga. Tujuan darii penelitian ini adalah untuk melakukan perancangan sistem iformasi untuk pengelolaan pembayaran warga di tingkat Perumahan Puri Bunga Estate. 
+Sehingga diharapkan penelitian ini dapat mendukung pemerintah dalam menangani permasalahan seupa di masa mendatang. Perancangan yang dilakukan dalam penelitian ini menggunakan metode scrum untuk mengatur proses pengerjaan sistem informasi yang akan dirancang. Metode scrum merupakan sebuah metode perancangan yang mengikuti aturan metode agile
+Diharapkan dengan penggunaan metode scrum pada pembuatan aplikasi sistem informasi pembayaran iuran warga puri bunga estate dapat menghasilkan sebuah produk yang deliverable dan useable dengan menganalisa beberapa kasus yang telah ada.
